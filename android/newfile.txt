@@ -1,0 +1,1 @@
+[{"id":539,"student_id":7702,"lecture_num":"l4","attendance":1},{"id":539,"student_id":7739,"lecture_num":"l4","attendance":0},{"id":539,"student_id":7740,"lecture_num":"l4","attendance":1}]
